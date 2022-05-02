@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a44f0b-c455-4cba-a263-5180d1695ebb" name="Changes" comment="Curso de Java para Principiantes Estructura de Datos">
+    <list default="true" id="79a44f0b-c455-4cba-a263-5180d1695ebb" name="Changes" comment="Ciclos de repetición en Java - #8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -73,7 +73,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651526408451</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Variables en Java - #6">
+      <created>1651526680248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651526680248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Leer datos desde teclado en Java - #7">
+      <created>1651526756301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651526756301</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ciclos de repetición en Java - #8">
+      <created>1651526849836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651526849836</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,7 +102,25 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -89,6 +128,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Curso de Java para Principiantes Estructura de Datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curso de Java para Principiantes Estructura de Datos" />
+    <MESSAGE value="Variables en Java - #6" />
+    <MESSAGE value="Leer datos desde teclado en Java - #7" />
+    <MESSAGE value="Ciclos de repetición en Java - #8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ciclos de repetición en Java - #8" />
   </component>
 </project>
