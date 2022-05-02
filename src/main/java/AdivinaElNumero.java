@@ -13,6 +13,7 @@ public class AdivinaElNumero {
 
 
         while (juegoActivo) {
+
             int intentos = 0;
             int min = 0;
             int max = 100;
