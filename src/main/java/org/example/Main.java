@@ -1,28 +1,23 @@
 package org.example;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Leer datos desde teclado en Java - #7");
 
-        System.out.println("Estructura de Datos");
-        System.out.println("Variables en Java - #6");
+        Scanner entrada = new Scanner(System.in);
 
-        int pizzas = 6 ;
-        int personas = 3;
-        int pizzaPorPersonas = pizzas / personas;
+        System.out.println("cual es tu nombre ?");
+        String nombre = entrada.nextLine( );
 
-        System.out.printf("Si hay %d pizzas, y %d personas, a cada persona le corresponde %d pizzas "
-                , pizzas, personas, pizzaPorPersonas);
+        System.out.println("\n tu nombre es> " + nombre);
 
-        String auto = "Ferrari";
-        double velocidad = 90.3;
-        System.out.printf("\n\n El auto %s se desplaza a %f km/h", auto, velocidad);
+        System.out.println("\n cual es tu edad ?");
+        String edad = entrada.nextLine();
+        System.out.println("tu edad es " + edad );
 
-        int precioLeche = 15;
-        double precioJamon = 35.6;
-        int precioHuevo = 23;
 
-        double precioTotal = precioLeche + precioJamon + precioHuevo;
 
-        System.out.printf("El precio total es >  %f\n",precioTotal);
-        }
+    }
 }
