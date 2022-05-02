@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a44f0b-c455-4cba-a263-5180d1695ebb" name="Changes" comment="Sentencias condicionales en Java - # 9">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    <list default="true" id="79a44f0b-c455-4cba-a263-5180d1695ebb" name="Changes" comment="Creando el juego, Creando el Proyecto - #11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AdivinaElNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdivinaElNumero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -147,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651528613026</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creando el juego, Creando el Proyecto - #11">
+      <created>1651529870530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651529870530</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +193,7 @@
     <MESSAGE value="Leer datos desde teclado en Java - #7" />
     <MESSAGE value="Ciclos de repetición en Java - #8" />
     <MESSAGE value="Sentencias condicionales en Java - # 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sentencias condicionales en Java - # 9" />
+    <MESSAGE value="Creando el juego, Creando el Proyecto - #11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creando el juego, Creando el Proyecto - #11" />
   </component>
 </project>
